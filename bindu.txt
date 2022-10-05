@@ -1,0 +1,24 @@
+every jenkins job has 2 stages
+prebuild
+
+is nothing but before we are creating the 
+
+under the prebuild we have some stages
+
+1.git hub repository
+2.maven
+3.sonarqube code quality
+
+
+post build
+
+is nothing but after package is created
+
+uploading to nexus activity
+remote server
+deploying to remote server or deploying to kubernates class temp
+
+how many ways are there to automate the jenkins
+
+
+info.dkin@vfshelpline.com
